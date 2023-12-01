@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(165, 92, 19);
+}
+#image{
+    border: solid yellowgreen;
+    border-radius: 92px;
+    float: left;
+    width: 300px; 
+    height: 350px;
+    padding: 10px;
+    margin: 10px;
+}
+.all{
+    background-color: rgb(190, 128, 128);
+
+}
+#skill{
+
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+  
+  
+    
+}
+#Soft{
+
+    font-size:20px;
+    font-style: italic;
+    
+}
+#hard{
+
+    font-size: 20px;
+    font-style: italic;
+    
+
+    
+}
+
+#project{
+
+ font-size: 35px;
+font-weight: lighter;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+ 
+
+}
+
